@@ -1,0 +1,18 @@
+{
+  "name": "moviedb",
+  "version": "1.0.0",
+  "description": "webhook for movie database",
+  "main": "index.js",
+  "scripts": {
+    "test": "moviewebhook"
+  },
+  "repository": {
+    "type": "git",
+    "url": "moviewebhook"
+  },
+  "keywords": [
+    "movie"
+  ],
+  "author": "vaishnavi",
+  "license": "UNLICENSED"
+}
