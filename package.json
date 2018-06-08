@@ -4,11 +4,12 @@
   "description": "webhook for movie database",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "moviewebhook"
   },
   "repository": {
     "type": "git",
-    "url": "moviewebhook"
+    "url": "https://github.com/vaishu66/MovieWebhook.git"
   },
   "keywords": [
     "movie"
